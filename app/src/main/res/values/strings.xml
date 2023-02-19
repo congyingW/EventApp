@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">EventApp</string>
+    <string name="all_events">All Events</string>
+    <string name="calender">Calender</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="note">note</string>
+    <string name="repeat">repeat</string>
+    <string name="upgrade">upgrade</string>
+    <string name="name">name</string>
+    <string name="save">save</string>
+    <string name="clear">clear</string>
+    <string name="search">search</string>
+    <string name="search_result">search result</string>
+    <string name="channel_name">channel name</string>
+    <string name="channel_description">channel description</string>
+</resources>
